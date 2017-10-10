@@ -1,0 +1,7 @@
+c:\users\danny\source\repos\ReversingStrings\ReversingStrings\bin\Debug\ReversingStrings.exe.config
+c:\users\danny\source\repos\ReversingStrings\ReversingStrings\bin\Debug\ReversingStrings.exe
+c:\users\danny\source\repos\ReversingStrings\ReversingStrings\bin\Debug\ReversingStrings.pdb
+c:\users\danny\source\repos\ReversingStrings\ReversingStrings\obj\Debug\ReversingStrings.csprojResolveAssemblyReference.cache
+c:\users\danny\source\repos\ReversingStrings\ReversingStrings\obj\Debug\ReversingStrings.csproj.CoreCompileInputs.cache
+c:\users\danny\source\repos\ReversingStrings\ReversingStrings\obj\Debug\ReversingStrings.exe
+c:\users\danny\source\repos\ReversingStrings\ReversingStrings\obj\Debug\ReversingStrings.pdb
