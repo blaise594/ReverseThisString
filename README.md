@@ -1,5 +1,5 @@
 ﻿# ReverseThisString
- - This application shows the use of the following technologies:
+- This application shows the use of the following technologies:
   - C#  
   - Microsoft's Visual Studio
 - The major features of the application are:
